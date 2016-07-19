@@ -1,0 +1,170 @@
+/* common classes */
+.divHeight{
+	height:100%;
+}
+
+.mainTextColor {
+	color: white;
+}
+
+
+#main{
+	background-image: url("../image/header.jpg");
+	background-size: cover;
+
+}
+#main .container-fluid{
+	padding: 0px;
+}
+#main .navbar{
+	border-radius: 0px;
+}
+
+#main h3 {
+	font-style: italic;
+	font-size: 3em;
+}
+#main h1 {
+	font-size: 5em;
+	font-weight: 700;
+}
+#main .btn {
+	border-radius: 0;
+	padding: 20px;
+}
+#main .content{
+	padding: 50px 0;
+}
+#main a:first-child{
+	color: yellow;
+}
+
+#services {
+}
+
+#services .mainColor{
+background-color: white;
+}
+#services h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+
+}
+#services i{
+	color: white;
+	background-color: #FED136;
+	border-radius: 100%;
+	padding:30px;
+}
+
+#services h6 {
+	padding: 20px 0;
+	font-style: italic;
+
+}
+#services .content {
+	padding: 50px 0;
+}
+
+#services h4 {
+padding-left: 10px;
+}
+
+
+#portfolio .mainColor{
+	background-color: lightgray;
+}
+
+#portfolio .content {
+	padding: 50px 0;
+}
+
+#portfolio h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+#portfolio h6 {
+	padding: 20px 0;
+	font-style: italic;
+}
+#about{
+	height: 1000px;
+}
+#about .mainColor{
+	background-color: yellow;
+}
+#team{
+	height: 800px;
+}
+#team .mainColor{
+	background-color: #EEEEEE;
+}
+
+#team h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+	text-align: center;
+	padding-top: 20px;
+}
+#team p, h4 {
+	padding-left: 70px;
+}
+span{
+	text-align: center;
+
+}
+#team ul {
+	padding-left: 60px;
+}
+#team h5 {
+	text-align: center;
+}
+
+.border{ border: 1px solid black;
+height: 200px;
+}
+.border1 {
+	border: 5px solid white;
+	}
+.centerGo{
+	padding-left: 50px;
+}
+.centerGo2{
+	padding-left: 90px;
+}
+.margin{
+	margin-top: 30px;
+	}
+#contact{
+	height: 500px;
+
+}
+#contact .mainColor{
+	background-color: #2B2B2B;
+}
+#contact .mainHeight{
+	height: 100%;
+}
+#contact textarea{
+	height: 130px;
+}
+
+#team i {
+	border-radius: 100%;
+	padding: 10px;
+	background-color: black;
+	color: white;
+}
+.row8{
+	height: 100px;
+}
+#footer i{
+	border-radius: 100%;
+	padding: 10px;
+	background-color: black;
+	color: white;
+}
+#footer a:last-child{
+	color: #FED136;
+}
